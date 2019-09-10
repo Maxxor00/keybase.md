@@ -19,13 +19,13 @@ json
       "username": "lmaxxorl"
     },
     "merkle_root": {
-      "ctime": 1568091937,
-      "hash": "ac28e1d4af170edd0badb66f809c898d52cc9894789cedeb4bfdeea6203751badae92d97e6b10b6a75fc329f2857bfe17af106fbceee3b9a6095aea0e7d9e5a3",
-      "hash_meta": "be5ac23355baf96e89ff9728457fa9bfbc68304f4ac8c6a7b371948af370559f",
-      "seqno": 6316623
+      "ctime": 1568092823,
+      "hash": "3d22e788b3df9cd57c3a3fd3931bb5a02e9e0ce4f1208e0c26e6f8df1f6b2daa50fa4d6d2b9ee49b344c7a0ba91238b26938b5d2229395e13ef4b28edbf7217e",
+      "hash_meta": "9eec9883085d82e39a6f63559017a1f4578172f7e9f131eedcbc6ebc9d6c54c5",
+      "seqno": 6318588
     },
     "service": {
-      "entropy": "dnMJL/7qeolEj/c44h8GitfW",
+      "entropy": "ae0fL9MV3rCdo8BF57ggnjO8",
       "name": "github",
       "username": "maxxor00"
     },
@@ -36,10 +36,10 @@ json
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568091960,
+  "ctime": 1568092835,
   "expire_in": 504576000,
-  "prev": "6acb53156cedec190ba0bfe28aeb058778067026f7685b3ab2ce5ece4d32125a",
-  "seqno": 5,
+  "prev": "fd936ba0c4abcf9c6f155890f588a4cfbe7cf50b722d785df25ed76d2e7a2bdf",
+  "seqno": 9,
   "tag": "signature"
 }
 
@@ -47,7 +47,7 @@ json
 with the key [ASAIL6wQPlpKdWXMzFeECAAbZs8NkRs-Bid1F0R8qwuCXwo](https://keybase.io/lmaxxorl), yielding the signature:
 
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCC+sED5aSnVlzMxXhAgAG2bPDZEbPgYndRdEfKsLgl8Kp3BheWxvYWTESpcCBcQgastTFWzt7BkLoL/iiusFh3gGcCb3aFs6ss5ezk0yElrEIKVRH4TEuiSWNyN6JTocMaF9wDp3h30H+v/JxvzKFbptAgHCo3NpZ8RAlO7fnokab4uk2fu3V1jfeSQfVarUTphnl1cSdfYEw5Hxipi4sBSw8Jahz5fO5cOSFyxG8r4EvD0KjMLuHdOZDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBG31aUbTqTBhNM6+UP2EZ9sS2i8qLVx242O7XZ2HAyYo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCC+sED5aSnVlzMxXhAgAG2bPDZEbPgYndRdEfKsLgl8Kp3BheWxvYWTESpcCCcQg/ZNroMSrz5xvFViQ9Yikz7589QtyLXhd8l7XbS56K9/EICN/6yPTc8eb5034025G2V2ESTF5SACc4cYfzm8BdVZQAgHCo3NpZ8RAYnMtpGFFw+JGtkjC+lY2D+Rvlr55h24BihtcoRmiKXyQtAHuLoaCCAQKa1Rr7biSx2pBV7HHeo420T7fgnvXDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKL59d9g3ejTbGAqLI+21plus++7IiwWsghI4eOAGnPwo3RhZ80CAqd2ZXJzaW9uAQ==
 
 
 
